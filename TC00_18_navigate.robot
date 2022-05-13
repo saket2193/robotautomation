@@ -3,7 +3,7 @@ Library    SeleniumLibrary
 Library  SeleniumLibrary
 
 *** Variables ***
-
+${browser name}   chrome
 *** Keywords ***
 
 *** Test Cases ***
